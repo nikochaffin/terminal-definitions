@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+definition-patterns.json
+word-counts.json
